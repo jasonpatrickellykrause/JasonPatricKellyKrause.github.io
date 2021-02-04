@@ -40,27 +40,27 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
    email: "jasonkrause@live.com"
-#  facebook: deanattali
    github: jasonpatrickellykrause
-   twitter: Jason_Krause_CO
-#  patreon: DeanAttali
-#  youtube: c/daattali
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
    spotify: jasonvelocity
-   telephone: +7194398533
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
+   stackoverflow: "12591786/jason-krause"
+   telephone: +17194398533
+   twitter: Jason_Krause_CO
 #  calendly: yourname
+#  facebook: deanattali
+#  google-scholar: your google scholar
+#  instagram: deanat78
+#  linkedin: daattali
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+#  patreon: DeanAttali
+#  reddit: yourname
+#  snapchat: deanat78
+#  steam: deanat78
+#  telegram: yourname
+#  twitch: yourname
+#  xing: yourname
+#  yelp: yourname
+#  youtube: c/daattali
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
@@ -77,7 +77,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "jasonkrause.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
